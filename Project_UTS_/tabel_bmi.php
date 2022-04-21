@@ -30,8 +30,8 @@
 
     $b1 = new BMI(69.8);
     $b1->tinggi = 169;
-    $b2 = new BMI(80);
-    $b2->tinggi = 161;
+    $b2 = new BMI(55.3);
+    $b2->tinggi = 165;
     $b3 = new BMI(45.2);
     $b3->tinggi = 171;
     $b4 = new BMI($_berat);
