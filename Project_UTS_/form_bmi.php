@@ -23,7 +23,7 @@
 <div class="container">
         <div class="row">
             <div class="col-12">
-                    <form method="POST" action="kalkulator.php">
+                    <form method="POST" action="tabel_bmi.php">
                         <div class="form-group row">
                         <label for="nama" class="col-2 col-form-label">Nama</label> 
                         <div class="col-10">
